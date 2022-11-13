@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevPaxryk
 - 👀 I’m interested in web development and applications
-- 🌱 I’m currently learning Pyton, HTML and CSS
+- 🌱 I’m currently learning PYTHON, HTML and CSS
 - 💞️ I’m looking to collaborate on devpaxryk@gmail.com
 
 <!---
