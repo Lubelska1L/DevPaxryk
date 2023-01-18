@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @DevPaxryk
-- 👀 I’m interested in web development and applications
-- 🌱 I’m currently learning PYTHON, HTML and CSS
-- 💞️ I’m looking to collaborate on devpaxryk@gmail.com
 
-<!---
-DevPaxryk/DevPaxryk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+![gej](https://user-images.githubusercontent.com/118128400/213311388-9eff8ea8-e40f-42da-bab9-3dd098fd4065.png)
+
+<hr>
+
+👋 Hi, I’m @DevPaxryk <br>
+👀 I’m interested in web development and applications <br>
+🌱 I’m currently learning PYTHON, HTML and CSS<br>
+💞️ I’m looking to collaborate on devpaxryk@gmail.com
