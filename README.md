@@ -1,7 +1,7 @@
 
 <hr>
 
-![gej](https://user-images.githubusercontent.com/118128400/213311388-9eff8ea8-e40f-42da-bab9-3dd098fd4065.png)
+![Bez nazwy-4](https://user-images.githubusercontent.com/118128400/216459105-e3cb8b86-943e-4859-896c-053d44ed9c02.png)
 
 <hr>
  <h3 align="center">I'M LEARNING PROGRAMMING LANGUAGES:</h3>
