@@ -1,7 +1,7 @@
 
 <hr>
 
-![Bez nazwy-4](https://user-images.githubusercontent.com/118128400/216459105-e3cb8b86-943e-4859-896c-053d44ed9c02.png)
+![Bez nazwy-4](https://user-images.githubusercontent.com/118128400/216459440-4a476c57-2e21-49ba-a96f-6a3fcac5ccd8.png)
 
 <hr>
  <h3 align="center">I'M LEARNING PROGRAMMING LANGUAGES:</h3>
