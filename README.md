@@ -18,5 +18,3 @@
 <h4 align="center">E-MAIL: devpaxryk@gmail.com</h4>
 <h4 align="center"> DISCORD: PAXRYK#9738</h4>
 <hr>
- <h3 align="center">MY WEBSITE</h3>
-<a href="">![TA](https://user-images.githubusercontent.com/118128400/216460094-ac387c81-f30c-49da-b40f-2a28472199b9.png)</a>
