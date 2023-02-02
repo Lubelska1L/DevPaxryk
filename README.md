@@ -19,4 +19,4 @@
 <h4 align="center"> DISCORD: PAXRYK#9738</h4>
 <hr>
  <h3 align="center">MY WEBSITE</h3>
-<a href="">![23 (2)](https://user-images.githubusercontent.com/118128400/216459977-11b9e325-6b54-4a16-b9df-276b5b9c19f3.png)</a>
+<a href="">![TA](https://user-images.githubusercontent.com/118128400/216460094-ac387c81-f30c-49da-b40f-2a28472199b9.png)</a>
