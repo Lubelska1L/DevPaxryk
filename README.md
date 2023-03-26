@@ -14,6 +14,9 @@
   </a>
 </p>
 <hr>
+ <h3 align="center">MY STATUS:</h3>
+ <p><img src="https://discord.c99.nl/widget/theme-1/986359062272802857.png" alt=""></p>
+ <hr>
  <h3 align="center">CONTACT ME</h3>
 <h4 align="center">E-MAIL: devpaxryk@gmail.com</h4>
 <h4 align="center"> DISCORD: PAXRYK#9738</h4>
