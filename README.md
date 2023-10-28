@@ -19,5 +19,5 @@
  <hr>
  <h3 align="center">CONTACT ME</h3>
 <h4 align="center">E-MAIL: devpaxryk@gmail.com</h4>
-<h4 align="center"> DISCORD: ! PAXRYK#9738</h4>
+<h4 align="center"> DISCORD: paxryk</h4>
 <hr>
